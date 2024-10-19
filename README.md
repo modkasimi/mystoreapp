@@ -25,10 +25,10 @@ We are continuously working on enhancing **my store**. Upcoming features will in
 
 ## License
 
-This project is licensed under the [Your License Name](LICENSE). Please refer to the license file for details on how you can use and distribute this software.
+This project is licensed under (LICENSE). Please refer to the license file for details on how you can use and distribute this software.
 
 ## Support
 
-If you have any questions or need support, please contact us at [kasimiapps@gmail.com].
+If you have any questions or need support, please contact us at kasimiapps@gmail.com.
 
 Thank you for using **my store**!
